@@ -1,0 +1,6 @@
+{
+  "name": "Campus Virtual ExO",
+  "description": "Un campus virtual interactivo de aprendizaje basado en el libro Organizaciones Exponenciales (ExO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
